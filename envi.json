@@ -1,0 +1,21 @@
+{
+	"id": "4f55c487-db8a-439f-978e-8a0106b2620c",
+	"name": "ClaseAPI",
+	"values": [
+		{
+			"key": "token_env",
+			"value": "aGFzaGRzZnNkZnNkZnNkZnNk",
+			"type": "secret",
+			"enabled": true
+		},
+		{
+			"key": "token_env_sad_path",
+			"value": "aGFzaGRzZnNkZnNkZnNkZnNka",
+			"type": "secret",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2024-08-04T05:22:22.017Z",
+	"_postman_exported_using": "Postman/11.6.2"
+}

@@ -1,0 +1,1 @@
+newman run temp_collection.json --environment envi.json --folder "Sad Path" -r cli,json,htmlextra
